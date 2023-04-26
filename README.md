@@ -1,6 +1,6 @@
 # print("Hola mundo!👋"); 
 Mi nombre es Carlos Aguirre, actualmente estoy en busqueda de trabajo conforme a lo que he aprendido estos ultimos 3 años.
-- 😍 Mis lenguajes preferidos son Dart y Typescript, sin embargo tambien me llama la atencion Python y GO
+- 😍 Mis lenguajes preferidos son Dart y Typescript, sin embargo me llama la atencion Python y GO
 - 💾 Las bases de datos que aprendí en la Universidad y en los proyectos personales son: SQL server, PostgreSQL, MySQL, SQLite y firebase.
 - 📘 Mi libro favorito es Clean Architecture.
 - 🌱 En la actualidad estoy refactorizando mi portafolio y creando contenido
